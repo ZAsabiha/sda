@@ -1,6 +1,0 @@
-student_id,name,guardian_name,guardian_relation,guardian_address
-1,"Harry Potter","Vernon Dursley +441234567890",Uncle,"Uncle: Vernon Dursley +441234567890"
-2,"Hermione Granger","Richard Granger",Father,+441908765432
-3,"Ron Weasley","Molly Weasley",Mother,"The Burrow, Ottery St Catchpole"
-4,"Draco Malfoy","Lucius Malfoy",Father,"Malfoy Manor, Wiltshire"
-5,"Luna Lovegood","Xenophilius Lovegood +440123456789",Father,"Father: Xenophilius Lovegood +440123456789"
